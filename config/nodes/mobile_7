@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:6
+device_id:7
+device_longitude:10.086135864257812
+device_latitude:33.88865750396352
+device_elevation:0.0
+device_radius:8.0
+device_hide:0
+device_gps_file_name:route1.gps

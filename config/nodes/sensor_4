@@ -1,0 +1,12 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:4
+device_longitude:10.109551548957825
+device_latitude:33.89101762266224
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:40.0
+device_script_file_name:verification2.csc
